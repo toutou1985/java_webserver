@@ -2,5 +2,5 @@
 
 How to start the server:
 
-$javac -d . src/*.java 
+$javac -d . src/*.java  
 $java http/HttpServer
